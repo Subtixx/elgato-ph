@@ -93,7 +93,7 @@
   "CategoryIcon": "plugin/images/actions/category",
   "PropertyInspectorPath": "pi/index.html",
   "URL": "https://github.com/subtixx/elgato-ph",
-  "Version": "1.4",
+  "Version": "1.5",
   "DefaultWindowSize": [500, 650],
   "OS": [
     {
