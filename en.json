@@ -51,6 +51,8 @@
       "Colors": "Colors",
       "Temperature": "Temperature",
       "Brightness": "Brightness",
+      "BrightnessAdd": "Brightness To Add",
+      "BrightnessSubtract": "Brightness To Subtract",
       "Scene": "Scene",
       "NoScenes": "No Scenes"
     },
